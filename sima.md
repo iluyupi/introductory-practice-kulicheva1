@@ -1,6 +1,5 @@
 # Сима - наша озорная непоседа
 
-![Фото Симка](sima.jpg)
 <img src="sima.jpg" alt="Симка" style="width: 300px; border-radius: 12px; box-shadow: 2px 2px 6px #ccc;">
 
 ## Характеристики:

@@ -1,6 +1,6 @@
 # Марфа - наша авторитетная красавица
 
-![Фото Марфика](marfa.jpg)
+<img src="marfa.jpg" alt="Марфик" style="width: 300px; border-radius: 12px; box-shadow: 2px 2px 6px #ccc;">
 
 ## Характеристики:
 | Параметр      | Значение      |
